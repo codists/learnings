@@ -20,3 +20,4 @@ https://www.cnblogs.com/xiaolantian/p/10746206.html
   - 特点：分模块，不支持全局搜索，需要对模块比较熟悉才能找到相关内容。
 - stackoverflow: https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents
   - 关于C文档其它内容的的一些补充。
+- GNU C reference: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#SEC_Contents
