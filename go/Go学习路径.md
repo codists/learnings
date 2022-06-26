@@ -4,7 +4,12 @@
 
 ## 初级
 
+- 《The Go Programming Language》
+
+  https://book.douban.com/subject/26337545/
+
 - [go by example](https://gobyexample.com/)
+
 - [go 101](https://go101.org/article/101.html)
 
 ## 中级
