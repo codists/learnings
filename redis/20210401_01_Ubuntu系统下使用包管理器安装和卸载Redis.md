@@ -88,6 +88,8 @@ $ redis-cli SHUTDOWN
 $ redis-server
 ```
 
+## 设置开机启动
+
 # 卸载 Redis
 
 因为这里使用的是包管理器安装的，所以，如果需要卸载 Redis，也可以使用包管理器进行卸载。
